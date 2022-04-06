@@ -1,0 +1,11 @@
+public class Main {
+  public static void main(String[] args) {
+  int l=10;
+   int m= 6;
+ int n=04;
+  float o=(l%n+m);
+  
+    System.out.println("Divide and Add arel,m and n is:"+o);
+  System.out.println("by adding a and b is:"+(l+m));
+}
+}
