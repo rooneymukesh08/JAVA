@@ -1,0 +1,64 @@
+PERCENTAGE AND ADD 
+public class Main {
+  public static void main(String[] args) {
+  int l=10;
+   int m= 6;
+ int n=04;
+  float o=(l%m)+n);
+  
+    System.out.println("Divide and Add arel,m and n is:"+o);
+  System.out.println("by adding a and b is:"+(l+m));
+}
+}
+
+DIVIDE AND ADD EXAMPLE
+
+public class Main {
+  public static void main(String[] args) {
+  int l=24;
+   int m=42;
+ int n=04;
+  float o=(m/n)+l;
+  
+    System.out.println("Divide and Add arel,m and n is:"+o);
+}
+}
+
+ADD ANDSUBRACTION EXAMPLE
+
+public class Main {
+  public static void main(String[] args) {
+  int l=24;
+   int m=42;
+ int n=04;
+  float o=n+m-l;
+  
+    System.out.println("Add and subraction are l,m and n is:"+o);
+}
+}
+
+MULTIPLY AND DIVIDE EXAMPLE
+
+public class Main {
+  public static void main(String[] args) {
+  int l=24;
+   int m=42;
+ int n=04;
+  float o=(m/n)+l;
+  
+    System.out.println("multiply and divide are l,m and n is:"+o);
+}
+}
+
+ADDITION EXAMPLE
+
+public class Main {
+  public static void main(String[] args) {
+  int l=24;
+   int m=42;
+ int n=04;
+  float o=(m/n)+l;
+  
+    System.out.println("Addition of l,m and n is:"+o);
+}
+}
