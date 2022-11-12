@@ -1,0 +1,50 @@
+///package oOps;
+// * 
+ //*/
+/**
+ * @author ELCOT
+ *
+ */
+package oOps;
+ 
+ public class BasicClassObjectProgram {
+	 int a = 10;
+	 int b = 20;
+	 int c;
+	 
+	 public void addition() {
+		 System.out.println(c = a + b);
+	 }
+ 
+ public void subtraction() {
+	 System.out.println (c = b - a);
+	 
+ }
+ 
+ public void Multiply() {
+	 System.out.println (c = a * b);
+ 
+ }
+ 
+ 
+ 
+ public void division() {
+	 System.out.println (c = a / b);
+	 
+	 
+ }
+ 
+ 
+ public static void main(String[] args) {
+	 
+	 BasicClassObjectProgram bco = new BasicClassObjectProgram();
+	 bco.addition();
+	 bco.subtraction();
+	 bco.Multiply();
+	 bco.division();
+ 
+}
+ 
+ }
+ 
+ 
